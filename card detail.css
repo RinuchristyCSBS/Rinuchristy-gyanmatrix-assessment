@@ -1,0 +1,31 @@
+
+.body{
+    background: #F5F5F5;
+}
+.background{
+position: absolute;
+left: 1.91%;
+right: 1.62%;
+top: 19.29%;
+bottom: 2.31%;
+
+background: #3DB2D3;
+filter: blur(20px);
+border-radius: 29px;
+}
+.name{
+    position: absolute;
+left: 13.74%;
+right: 64.04%;
+top: 22.56%;
+bottom: 68.64%;
+
+font-family: 'Pirata One';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 82px;
+
+color: #DCDCDC;
+
+}
